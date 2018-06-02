@@ -3,6 +3,8 @@
 Static website built for wvprosound.com.  A top tier pro audio and live sound outfit
 out of Fayetteville, WV.  Go to the site to see what they have to offer.
 
+Site has a few interesting web design elements.  Smooth scrolling, single page, a timeline, etc.
+
 
 ## Deployment
 
